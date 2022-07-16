@@ -19,4 +19,6 @@ function App() {
   );
 }
 
+// Completed project
+
 export default App;
